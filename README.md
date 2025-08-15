@@ -6,12 +6,12 @@ A simple project to practice writing and deploying smart contracts on the Base b
 Base (mainnet / testnet)
 
 ## Contracts
-NFT contract: 0xF0D313cfC320bED13d3F98229817170080630E14
-Transaction: https://basescan.org/address/0xf0d313cfc320bed13d3f98229817170080630e14#code
+NFT contract: 0xF0D313cfC320bED13d3F98229817170080630E14, https://basescan.org/address/0xf0d313cfc320bed13d3f98229817170080630e14#code
+Deployed by lon
 
-Token Contract: 0xE7190D2dDEd8b3bb741Cc1ef00EA64fE0d601AA0
-Transaction:
+Token Contract: 0xE7190D2dDEd8b3bb741Cc1ef00EA64fE0d601AA0, 
 https://basescan.org/verifyContract-solc?a=0xe7190d2dded8b3bb741cc1ef00ea64fe0d601aa0&c=v0.8.17%2Bcommit.8df45f5f&lictype=3
+Deployed by mercury60
 
 ## How to deploy (Remix)
 1. Open Remix IDE.
