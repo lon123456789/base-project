@@ -5,17 +5,22 @@ A simple project to practice writing and deploying smart contracts on the Base b
 ## Chain
 Base (mainnet / testnet)
 
-## Contracts
-NFT contract: 0xF0D313cfC320bED13d3F98229817170080630E14, https://basescan.org/address/0xf0d313cfc320bed13d3f98229817170080630e14#code
+## Contracts 
+NFT contract: 0xF0D313cfC320bED13d3F98229817170080630E14
+https://basescan.org/address/0xf0d313cfc320bed13d3f98229817170080630e14#code
 Deployed by lon
 
-Token Contract: 0xE7190D2dDEd8b3bb741Cc1ef00EA64fE0d601AA0, 
+Token Contract: 0xE7190D2dDEd8b3bb741Cc1ef00EA64fE0d601AA0
 https://basescan.org/verifyContract-solc?a=0xe7190d2dded8b3bb741cc1ef00ea64fe0d601aa0&c=v0.8.17%2Bcommit.8df45f5f&lictype=3
 Deployed by mercury60
 
 GigaDAO contract: 0xB7C7a903e31188a58b41867A25752b9Cb4505ee2
 https://basescan.org/address/0xb7c7a903e31188a58b41867a25752b9cb4505ee2#code
 Deployed by lon
+
+GigaStacking contract: 0x8bE6860bF011674384A51bd54202340dF27E89D0
+https://basescan.org/address/0x8be6860bf011674384a51bd54202340df27e89d0#code
+Deployed by mercury60
 
 ## How to deploy (Remix)
 1. Open Remix IDE.
