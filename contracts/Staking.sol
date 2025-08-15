@@ -14,7 +14,7 @@ interface IERC20 {
 }
 
 /**
- * @title SimpleStaking
+ * @title GigaStacking
  * @dev A basic staking contract where users stake tokens to earn rewards over time.
  * Rewards are calculated based on staking duration and a fixed reward rate.
  * Deploy on Base; verify as single-file on Basescan.
