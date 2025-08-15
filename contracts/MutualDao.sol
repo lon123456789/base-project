@@ -5,7 +5,7 @@ pragma solidity ^0.8.20;
 /// @notice Basic DAO for proposals & voting (1 vote per address).
 /// @dev No external imports — easy verification.
 
-contract MutualDAO {
+contract GigaDAO {
     struct Proposal {
         uint256 id;
         address proposer;
