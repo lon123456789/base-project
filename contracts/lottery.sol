@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
-/// @title Mutual Lottery Contract
+/// @title Gigaproject Lottery Contract
 /// @notice People send ETH to join, owner picks a random winner.
 contract Raffle1 {
     address public owner;
