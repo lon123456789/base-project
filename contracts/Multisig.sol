@@ -1,11 +1,11 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
-/// @title Project Multi-Signature Wallet
+/// @title GigaProject Multi-Signature Wallet
 /// @notice Funds are only released after enough owners approve a transaction.
 /// @dev No external dependencies, single-file, easy to verify.
 
-contract MutualprojectMultiSigWallet {
+contract GigaprojectMultiSigWallet {
     event Deposit(address indexed sender, uint amount);
     event Submit(uint indexed txId);
     event Approve(address indexed owner, uint indexed txId);
