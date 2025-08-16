@@ -24,6 +24,8 @@ Deployed by mercury60
 
 Lottery contract: 0x14696861C5f8FDd606a60f3e914107d6c9837f2f
 https://basescan.org/address/0x14696861c5f8fdd606a60f3e914107d6c9837f2f
+Deployed by mercury60
+
 ## How to deploy (Remix)
 1. Open Remix IDE.
 2. Load the contract file from this repository.
