@@ -11,7 +11,7 @@ https://basescan.org/address/0xf0d313cfc320bed13d3f98229817170080630e14#code
 Deployed by lon
 
 Token Contract: 0xE7190D2dDEd8b3bb741Cc1ef00EA64fE0d601AA0
-https://basescan.org/verifyContract-solc?a=0xe7190d2dded8b3bb741cc1ef00ea64fe0d601aa0&c=v0.8.17%2Bcommit.8df45f5f&lictype=3
+https://basescan.org/address/0xe7190d2dded8b3bb741cc1ef00ea64fe0d601aa0
 Deployed by mercury60
 
 GigaDAO contract: 0xB7C7a903e31188a58b41867A25752b9Cb4505ee2
