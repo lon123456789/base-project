@@ -22,6 +22,10 @@ GigaStacking contract: 0x8bE6860bF011674384A51bd54202340dF27E89D0
 https://basescan.org/address/0x8be6860bf011674384a51bd54202340df27e89d0#code
 Deployed by mercury60
 
+Gigaproject Multisigwallet contract: 0xcB4789b22B721531c4409bfB5Ea4Db9553005F23
+https://basescan.org/address/0xcb4789b22b721531c4409bfb5ea4db9553005f23#code
+Deployed by lon
+
 Lottery contract: 0x14696861C5f8FDd606a60f3e914107d6c9837f2f
 https://basescan.org/address/0x14696861c5f8fdd606a60f3e914107d6c9837f2f
 Deployed by mercury60
@@ -31,4 +35,7 @@ Deployed by mercury60
 2. Load the contract file from this repository.
 3. Compile the contract.
 4. Deploy to Base network with your connected wallet.
+
+
+
 
