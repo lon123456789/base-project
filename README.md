@@ -30,6 +30,10 @@ Lottery contract: 0x14696861C5f8FDd606a60f3e914107d6c9837f2f
 https://basescan.org/address/0x14696861c5f8fdd606a60f3e914107d6c9837f2f
 Deployed by mercury60
 
+Timelock contract: 0xb87380d3cA0b745AAF640595967de61FbF4639EA
+https://basescan.org/address/0xb87380d3ca0b745aaf640595967de61fbf4639ea
+Dyployed by mercury60
+
 ## How to deploy (Remix)
 1. Open Remix IDE.
 2. Load the contract file from this repository.
