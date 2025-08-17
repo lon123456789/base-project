@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
-/// @title Simple Crowdsale / ICO Contract
+/// @title Gigasale / ICO Contract
 /// @notice Allows people to buy your ERC20 token with ETH during the sale period.
 /// @dev Single file, no flattening needed.
 
