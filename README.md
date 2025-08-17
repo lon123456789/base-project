@@ -42,6 +42,10 @@ GigaCrowdsale contract:0x4F7f645Dd9420835494Cd1B0254E2e1408Fd329f
 https://basescan.org/address/0x4F7f645Dd9420835494Cd1B0254E2e1408Fd329f#code
 Deployed by lon
 
+GigaSplitter contract: 0xE58BFf69C194F61AFBaB39bDb03B730774F1c51f
+https://basescan.org/address/0xe58bff69c194f61afbab39bdb03b730774f1c51f#code
+Deployd by mercury60
+
 ## How to deploy (Remix)
 1. Open Remix IDE.
 2. Load the contract file from this repository.
