@@ -34,6 +34,10 @@ Timelock contract: 0xb87380d3cA0b745AAF640595967de61FbF4639EA
 https://basescan.org/address/0xb87380d3ca0b745aaf640595967de61fbf4639ea
 Dyployed by mercury60
 
+Gigavesting contract: 0xC452694f226a61566d975B17D229ac358D7ffDA9
+https://basescan.org/address/0xc452694f226a61566d975b17d229ac358d7ffda9#code
+Deployed by lon
+
 ## How to deploy (Remix)
 1. Open Remix IDE.
 2. Load the contract file from this repository.
