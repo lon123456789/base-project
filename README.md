@@ -38,6 +38,10 @@ Gigavesting contract: 0xC452694f226a61566d975B17D229ac358D7ffDA9
 https://basescan.org/address/0xc452694f226a61566d975b17d229ac358d7ffda9#code
 Deployed by lon
 
+GigaCrowdsale contract:0x4F7f645Dd9420835494Cd1B0254E2e1408Fd329f
+https://basescan.org/address/0x4F7f645Dd9420835494Cd1B0254E2e1408Fd329f#code
+Deployed by lon
+
 ## How to deploy (Remix)
 1. Open Remix IDE.
 2. Load the contract file from this repository.
