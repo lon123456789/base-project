@@ -229,6 +229,7 @@ contract StreamVault is ReentrancyGuard {
 
         uint64 t = uint64(block.timestamp);
         uint256 earnedNow = _earned(s, t);
+        uint256 dueToRecipient = earnedNow > s.withdrawn ? earnedNow - s.withdrawn : 0;
         uint256 remaining = uint256(s.deposit) - earnedNow;
         s.canceled = true;
 
