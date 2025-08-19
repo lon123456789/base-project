@@ -46,6 +46,10 @@ GigaSplitter contract: 0xE58BFf69C194F61AFBaB39bDb03B730774F1c51f
 https://basescan.org/address/0xe58bff69c194f61afbab39bdb03b730774f1c51f#code
 Deployd by mercury60
 
+Streamvault contract: 0x548Dba1f1C36f0A69b729Ce9b15A5737f72ae6c4
+https://basescan.org/address/0x548dba1f1c36f0a69b729ce9b15a5737f72ae6c4
+Deployed by lon
+
 ## How to deploy (Remix)
 1. Open Remix IDE.
 2. Load the contract file from this repository.
